@@ -15,10 +15,10 @@ Until now!
 
 ### Express Usage
 
-  var madeWithLove = require('made-with-love');
-  app.Use(madeWithLove.middleware());
+    var madeWithLove = require('made-with-love');
+    app.Use(madeWithLove.middleware());
 
 Or if you don't want to use the default `<3` ingredient,
 
-  var madeWithLove = require('made-with-love');
-  app.Use(madeWithLove.middleware( { ingredient: 'love' }));
+    var madeWithLove = require('made-with-love');
+    app.Use(madeWithLove.middleware( { ingredient: 'love' }));
