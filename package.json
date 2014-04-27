@@ -3,7 +3,11 @@
   "description": "a middleware that lets everyone know your API was made with love",
   "version": "0.2.2",
   "main": "made-with-love.js",
-  "devDependencies": {
+  "dependencies": {
     "express": "^4.1.0"
+  },
+  "repository" : {
+    "type": "git",
+    "url": "https://druttka@github.com/druttka/made-with-love-node.git"
   }
 }
