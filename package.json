@@ -1,7 +1,7 @@
 {
   "name": "made-with-love",
   "description": "a middleware that lets everyone know your API was made with love",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "main": "made-with-love.js",
   "dependencies": {
     "express": "^4.1.0"
